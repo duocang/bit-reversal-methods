@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="272.94885mm"
+   height="103.53651mm"
+   viewBox="0 0 967.1416 366.86164"
+   id="svg4444"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="xor.svg">
+  <defs
+     id="defs4446">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path3915" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3936" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8358"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker4352"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4354" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-9W"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart-9W">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#2400f9;fill-rule:evenodd;stroke:#2400f9;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path10258"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9251"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker4359"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart-9W">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#2400f9;fill-rule:evenodd;stroke:#2400f9;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4361"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9251-2"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker4364"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4366" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4368"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4370" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4372"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4374" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8358-7"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker4377"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4379" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="403.96235"
+     inkscape:cy="164.21737"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata4449">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(35.50225,120.78291)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text2997"
+       y="30.973541"
+       x="160.3067"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';text-align:center;text-anchor:middle"
+         y="30.973541"
+         x="160.3067"
+         id="tspan2999"
+         sodipodi:role="line">...10011</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3001"
+       y="30.973541"
+       x="539.16382"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';text-align:center;text-anchor:middle"
+         y="30.973541"
+         x="539.16382"
+         id="tspan3003"
+         sodipodi:role="line">11001...</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3005"
+       y="28.35907"
+       x="31.677971"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+         y="28.35907"
+         x="31.677971"
+         id="tspan3007"
+         sodipodi:role="line">index</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3005-0"
+       y="28.35907"
+       x="660.4314"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';text-align:center;text-anchor:middle"
+         y="28.35907"
+         x="660.4314"
+         id="tspan3007-9"
+         sodipodi:role="line">rev(index)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2997-8"
+       y="135.94455"
+       x="159.7818"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';text-align:center;text-anchor:middle"
+         y="135.94455"
+         x="159.7818"
+         id="tspan2999-4"
+         sodipodi:role="line">...10100</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3005-1"
+       y="78.198181"
+       x="183.79419"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'"
+         y="78.198181"
+         x="183.79419"
+         id="tspan3007-8"
+         sodipodi:role="line">XOR</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6069"
+       y="18.313347"
+       x="222.91553"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="18.313347"
+         x="222.91553"
+         id="tspan6071"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2997-8-1"
+       y="81.420288"
+       x="288.3067"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';text-align:center;text-anchor:middle"
+         y="81.420288"
+         x="288.3067"
+         id="tspan2999-4-4"
+         sodipodi:role="line">0...0111</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="2.0881271"
+       y="130.35907"
+       id="text5230"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5232"
+         x="2.0881271"
+         y="130.35907"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'">index+1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="539.16382"
+       y="135.94455"
+       id="text5246"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5248"
+         x="539.16382"
+         y="135.94455"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';text-align:center;text-anchor:middle">00101...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="675.76343"
+       y="130.35907"
+       id="text5250"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5252"
+         x="675.76343"
+         y="130.35907"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';text-align:center;text-anchor:middle">rev(index+1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="473.79419"
+       y="78.198181"
+       id="text5254"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5256"
+         x="473.79419"
+         y="78.198181"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold'">XOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="412.3067"
+       y="81.420288"
+       id="text5258"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5260"
+         x="412.3067"
+         y="81.420288"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'TeX Gyre Cursor';-inkscape-font-specification:'TeX Gyre Cursor Bold';text-align:center;text-anchor:middle">1110...0</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.68217897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 351.14286,-103.06637 0,331.42858"
+       id="path5262"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.46328211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 124.46027,106.59509 0,-29.91811 50.28054,0"
+       id="path5266"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5268"
+       d="m 124.46027,34.585312 0,29.918106 50.28054,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.46328211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5305"
+       d="m 573.95243,106.59509 0,-29.91811 -50.28054,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.46328211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.46328211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 573.95243,34.585312 0,29.918106 -50.28054,0"
+       id="path5307"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.857147"
+       y="188.07648"
+       id="text5309"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5311"
+         x="32.857147"
+         y="188.07648"
+         style="font-size:22.5px;fill:#0000ff"><tspan
+   style="font-weight:bold;fill:#0000ff"
+   id="tspan5358">First:</tspan> Compute index+1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.760162"
+       y="-50.001957"
+       id="text5309-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5311-8"
+         x="90.760162"
+         y="-50.001957"
+         style="font-size:22.5px;fill:#0000ff"><tspan
+   style="font-weight:bold;fill:#0000ff"
+   id="tspan5360">Second:</tspan> Compute</tspan><tspan
+         sodipodi:role="line"
+         x="90.760162"
+         y="-21.876957"
+         style="font-size:22.5px;fill:#0000ff"
+         id="tspan5333">index XOR index+1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="402.66394"
+       y="-90.652847"
+       id="text5309-2-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5311-8-3"
+         x="402.66394"
+         y="-90.652847"
+         style="font-size:22.5px;fill:#0000ff"><tspan
+   style="font-weight:bold;fill:#0000ff"
+   id="tspan5362">Third:</tspan> Compute</tspan><tspan
+         sodipodi:role="line"
+         x="402.66394"
+         y="-62.527847"
+         style="font-size:22.5px;fill:#0000ff"
+         id="tspan5333-2">rev(index) XOR rev(index+1) =</tspan><tspan
+         sodipodi:role="line"
+         x="402.66394"
+         y="-34.402847"
+         style="font-size:22.5px;fill:#0000ff"
+         id="tspan5451">rev( index XOR index+1 )</tspan><tspan
+         sodipodi:role="line"
+         x="402.66394"
+         y="-6.2778473"
+         style="font-size:22.5px;fill:#0000ff"
+         id="tspan5356">by shifting index XOR index+1 to the left</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="382.19553"
+       y="179.0159"
+       id="text5309-2-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="382.19553"
+         y="179.0159"
+         style="font-size:22.5px;fill:#0000ff"
+         id="tspan5397"><tspan
+   style="font-weight:bold;fill:#0000ff"
+   id="tspan5362-1">Fourth:</tspan> Compute rev(index+1) =</tspan><tspan
+         sodipodi:role="line"
+         x="382.19553"
+         y="207.1409"
+         style="font-size:22.5px;fill:#0000ff"
+         id="tspan5403">rev(index) XOR ( rev(index) XOR rev(index+1) )</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:2.64318514;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -10.207657,123.7527 0,57.32126 34.464121,0"
+       id="path5405"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.11699343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 339.26245,50.185719 0,-93.016243 -21.58766,0"
+       id="path5405-7"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5431"
+       d="m 365.23329,50.185719 0,-93.016243 21.58766,0"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.11699343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 408.60113,151.70656 0,-26.0373 61.75157,0"
+       id="path5433"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5435"
+       cx="-9.8571434"
+       cy="124.64792"
+       r="6.4285712" />
+    <circle
+       r="6.4285712"
+       cy="180.64792"
+       cx="21.428572"
+       id="circle5437"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="6.4285712"
+       cy="-42.994938"
+       cx="318.14285"
+       id="circle5439"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5441"
+       cx="338.5"
+       cy="45.576488"
+       r="6.4285712" />
+    <circle
+       r="6.4285712"
+       cy="45.576488"
+       cx="364.85715"
+       id="circle5443"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5445"
+       cx="386.14285"
+       cy="-42.994938"
+       r="6.4285712" />
+    <circle
+       r="6.4285712"
+       cy="125.51015"
+       cx="466.14285"
+       id="circle5447"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5449"
+       cx="408.14285"
+       cy="149.51015"
+       r="6.4285712" />
+  </g>
+</svg>
